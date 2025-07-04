@@ -31,8 +31,6 @@ npm install -g json-server
 
 ## 🚀 Cómo ejecutar el proyecto
 
-## 📥 Clonar el repositorio
-
 1. Cloná este repositorio en tu máquina local:
 
 ```bash
