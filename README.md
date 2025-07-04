@@ -31,13 +31,20 @@ npm install -g json-server
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Iniciar el servidor JSON:
+## 📥 Clonar el repositorio
+
+1. Cloná este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/osvaldocs/entrenamientoSem3Js
+```
+2. Iniciar el servidor JSON:
 
 ```bash
 json-server --watch db.json --port 3000
 ```
 
-2. Ejecutar el script principal:
+3. Ejecutar el script principal:
 
 ```bash
 node gestion_api.js
